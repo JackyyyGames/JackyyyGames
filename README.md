@@ -13,6 +13,6 @@ Interested in low-level programming, clean code, automation, and backend basics.
 - Experiments with software engineering concepts  
 
 ## Stats
-![Jackyyy´s GitHub stats](https://github-readme-stats.vercel.app/api?username=jackyyygames&show_icons=true&theme=radical)
+![jackyy's GitHub stats](https://github-readme-stats.vercel.app/api?username=JackyyyGames&show_icons=true&theme=radical)
 
 Always learning. Always building.
