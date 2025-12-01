@@ -12,7 +12,7 @@ Interested in low-level programming, clean code, automation, and backend basics.
 - Small utilities and automation scripts  
 - Experiments with software engineering concepts  
 
-## On GitHub
-Personal projects, learning repos, and code experiments.
+## Stats
+![Jackyyy´s GitHub stats](https://github-readme-stats.vercel.app/api?username=jackyyygames&show_icons=true&theme=radical)
 
 Always learning. Always building.
