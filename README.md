@@ -14,7 +14,6 @@ Interested in low-level programming, clean code, automation, and backend basics.
 
 ## Stats
 ![Jackyy's GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JackyyyGames&theme=github_dark)
-![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JackyyyGames&theme=github_dark)
 
 
 Always learning. Always building.
