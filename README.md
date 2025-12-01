@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I’m Jakob 👋
 
-<!--
-**JackyyyGames/JackyyyGames** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Developer from Austria, mainly working with **C** and **C#**.  
+I enjoy building small tools, solving practical problems, and learning through real projects.
 
-Here are some ideas to get you started:
+## About Me ⚙️
+Student at an IT-focused technical school (HTL).  
+Interested in low-level programming, clean code, automation, and backend basics.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I Work On 💡
+- C and C# development  
+- Small utilities and automation scripts  
+- Experiments with software engineering concepts  
+
+## On GitHub
+Personal projects, learning repos, and code experiments.
+
+Always learning. Always building.
