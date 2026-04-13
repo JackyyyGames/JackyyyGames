@@ -13,6 +13,9 @@ Interested in low-level programming, clean code, automation, and backend basics.
 - Experiments with software engineering concepts  
 
 ## Stats
+<br/>
+![](https://streak-stats.demolab.com/?user=JackyyyGames&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=JackyyyGames&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 ![Jackyy's GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JackyyyGames&theme=github_dark)
 
 
