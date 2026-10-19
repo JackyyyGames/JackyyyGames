@@ -1,22 +1,30 @@
-# Hi, I’m Jakob 👋
+# Hi, I'm Jakob 👋
 
-Developer from Austria, mainly working with **C#**.  
-I enjoy building small tools, solving practical problems, and learning through real projects.
+Software Developer from Austria 🇦🇹 with a strong interest in **C#, Python, Databases, and Artificial Intelligence**.
+
+I enjoy developing software, exploring machine learning architectures, and understanding the mathematics behind modern AI systems.
 
 ## About Me ⚙️
-Student at an IT-focused technical school (HTL).  
-Interested in low-level programming, clean code, automation, and backend basics.
 
-## What I Work On 💡
-- C# development  
-- Small utilities and automation scripts  
-- Experiments with software engineering concepts  
+I'm currently studying at an IT-focused technical school (HTL) in Austria.
 
-## Stats
+My main interests lie in **software development, database systems, machine learning, and deep learning**. Beyond implementing models, I'm particularly interested in understanding how they work, from linear algebra and mathematical foundations to neural network architectures.
+
+## Tech & Interests 💡
+
+- **Software Development:** C#, Python, .NET
+- **Databases:** SQL, Database Design & Data Management
+- **Artificial Intelligence:** Machine Learning, Deep Learning & LLMs
+- **Neural Networks:** Architectures, Training & Optimization
+- **Mathematics:** Linear Algebra & Mathematical Foundations of ML
+- **Software Engineering:** Backend Development, Automation & Problem Solving
+
+## GitHub Stats 📊
+
 ![Jackyy's GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JackyyyGames&theme=github_dark)
-<br/>
+
 ![](https://streak-stats.demolab.com/?user=JackyyyGames&theme=dark&hide_border=false)
 
+---
 
-
-Always learning. Always building.
+*Building software. Exploring AI. Understanding the math behind it.*
